@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/asif88383/backend-Api-Pratice-Project/issues"
   },
-  "homepage": "https://github.com/asif88383/backend-Api-Pratice-Project#readme"
+  "homepage": "https://github.com/asif88383/backend-Api-Pratice-Project#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15"
+  }
 }
