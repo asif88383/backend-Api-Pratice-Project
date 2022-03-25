@@ -1,4 +1,4 @@
-let apiKey = "";
+let apiKey = 'https://min-api.cryptocompare.com/data/v2/histominute?fsym=BTC&tsym=USD&limit=100&api_key=9568a91b93869f30cead4906329ad9801b280b027aff380f02147a09fb89051a';
 
 
 // fetch Bitcoin data
@@ -84,4 +84,15 @@ async function createBTCChart(){
     });
 }
 
+
+// const config = {
+//     type: 'line',
+//     data: data,
+//     options: {}
+// };
+
+// const myChart = new Chart(
+//     document.getElementById('myChart'),
+//     config
+// );
 
