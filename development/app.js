@@ -18,8 +18,3 @@ app.use.apply('/api', routes);
 
 export default app;
 
-
-console.log("server updated")
-console.log("server updated")
-console.log("server updated")
-
