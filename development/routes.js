@@ -11,3 +11,5 @@ routes.post('/', blogController.post);
 export default routes;
 
 console.log("server updated")
+console.log("server updated")
+console.log("server updated")
