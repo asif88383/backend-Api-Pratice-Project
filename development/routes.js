@@ -9,3 +9,5 @@ routes.get('/addblog', blogController.getAll);
 routes.post('/', blogController.post);
 
 export default routes;
+
+console.log("server updated")
