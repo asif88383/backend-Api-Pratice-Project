@@ -4,6 +4,7 @@ import blogController from './controllers/BlogController';
 
 const routes = express();
 
+
 routes.get('/addblog', blogController.getAll);
 routes.post('/', blogController.post);
 
